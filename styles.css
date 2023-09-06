@@ -102,7 +102,7 @@ body{
 @media screen and (max-width: 500px) {
     .mainContainer{
         grid-template-columns: repeat(5, 15vw);
-        grid-template-rows: repeat(5, 27vw);
+        grid-template-rows: repeat(5, 17vw);
 
         padding: 5%;
     }
